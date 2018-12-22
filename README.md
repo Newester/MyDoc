@@ -1,0 +1,2 @@
+# MyDoc
+Collection of Documents
