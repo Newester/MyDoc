@@ -1,0 +1,5 @@
+TDC = [
+    .local = 
+    .cloudserver
+    .webserver
+]
