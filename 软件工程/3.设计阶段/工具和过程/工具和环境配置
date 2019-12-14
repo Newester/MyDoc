@@ -6,8 +6,10 @@ UML建模工具 = startuml = [
         https://www.jianshu.com/p/53197ac82dc6
         https://www.jianshu.com/p/c196520b60a3
         ]
-    ]
+]
 
-绘图工具 = draw.io = [
-        .下载 = https://github.com/jgraph/drawio-desktop/releases
-    ]
+图表绘制工具 = draw.io = [
+    .下载 = [
+            https://github.com/jgraph/drawio-desktop/releases/
+        ]
+]
